@@ -1,9 +1,0 @@
-{
-  "additionalFiles": "..\\..\\..,..\\..\\..,..\\..\\..",
-  "compiler.optimization_flags": "",
-  "customBuildProperties": "",
-  "fqbn": "arduino:avr:uno",
-  "hardwareFolders": "C:\\Users\\dosom\\AppData\\Local\\Arduino15\\packages",
-  "otherLibrariesFolders": "C:\\Users\\dosom\\Documents\\Arduino\\libraries",
-  "sketchLocation": "C:\\Users\\dosom\\Documents\\Arduino\\projects\\IR_signal_to_serial_port"
-}
